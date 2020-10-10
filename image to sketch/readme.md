@@ -20,3 +20,12 @@
 4.run the code on ur suitable IDE
 
 # Results
+## Initial Image
+![test img 1](https://github.com/malayaj2000/Open-CV-series-/blob/main/image%20to%20sketch/tanjiro.jpg)
+
+![test img 2](https://github.com/malayaj2000/Open-CV-series-/blob/main/image%20to%20sketch/robert%20jr%20.jpg)
+## Final image
+![test img3](https://github.com/malayaj2000/Open-CV-series-/blob/main/image%20to%20sketch/results/window%2010-10-2020%2011_04_07%20PM.png)
+
+![test img 4](https://github.com/malayaj2000/Open-CV-series-/blob/main/image%20to%20sketch/results/window%2010-10-2020%2011_05_39%20PM.png)
+	
