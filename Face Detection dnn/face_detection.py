@@ -2,6 +2,7 @@ import cv2
 import argparse
 import numpy as np
 ap = argparse.ArgumentParser()
+ap.add_argument("-i","--image",required=True,help="image path")
 ap.add_argument("-p", "--prototext", required=True,
 help="path to Caffe 'deploy' prototxt file")
 ap.add_argument("-m", "--model", required=True,
