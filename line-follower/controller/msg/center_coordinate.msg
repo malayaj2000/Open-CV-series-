@@ -1,0 +1,4 @@
+int64 frame_center_x
+int64 frame_center_y
+int64 path_center_x
+int64 path_center_y
