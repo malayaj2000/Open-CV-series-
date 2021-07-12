@@ -1,9 +1,27 @@
 # Open-CV-series-
 various open cv project
-  ## 1.Face Detection 
+
+-------------
+
+
+ ## line-follower
+    To follow a line in a Gazebo simulation using PID Control. 
+------------
+ ## UnderWater Angle Calculation
+    To find Angle of a object present under water .
+---------------- 
+  ## lane Detection
+    To segment out edges of the lane in daylight .
+-------------------    
+ ## Ball Center
+    To find Center of two ball .
+---------------------    
+ ## Face Detection 
     model uses opencv dnn module which is a opencv deep neral network module .
-  ## 2.Document Scanner
+---------------------    
+ ## Document Scanner
     model uses opencv perspective Transformation and basis image processing to form a scanned document .
-  ## 3. Image to Sketch
+----------------------    
+ ## Image to Sketch
     convert a image to a pencile sketch form
   
